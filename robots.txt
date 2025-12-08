@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shk-log.github.io/sitemap.xml
