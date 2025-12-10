@@ -6,13 +6,34 @@
     <description>Recent content in Tags on shk-log</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 08 Dec 2025 21:44:11 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 16:27:47 +0900</lastBuildDate>
     <atom:link href="https://shk-log.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ga4</title>
+      <link>https://shk-log.github.io/tags/ga4/</link>
+      <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
+      <guid>https://shk-log.github.io/tags/ga4/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Git</title>
       <link>https://shk-log.github.io/tags/git/</link>
-      <pubDate>Mon, 08 Dec 2025 21:44:11 +0900</pubDate>
+      <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
       <guid>https://shk-log.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GoogleSearchConsole</title>
+      <link>https://shk-log.github.io/tags/googlesearchconsole/</link>
+      <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
+      <guid>https://shk-log.github.io/tags/googlesearchconsole/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NaverSearchAdvisor</title>
+      <link>https://shk-log.github.io/tags/naversearchadvisor/</link>
+      <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
+      <guid>https://shk-log.github.io/tags/naversearchadvisor/</guid>
       <description></description>
     </item>
   </channel>
