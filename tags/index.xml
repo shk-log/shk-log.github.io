@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on shk-log</title>
-    <link>https://shk-log.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on shk-log</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Fri, 12 Dec 2025 11:24:12 +0900</lastBuildDate>
-    <atom:link href="https://shk-log.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git</title>
-      <link>https://shk-log.github.io/tags/git/</link>
+      <link>http://localhost:1313/tags/git/</link>
       <pubDate>Fri, 12 Dec 2025 11:24:12 +0900</pubDate>
-      <guid>https://shk-log.github.io/tags/git/</guid>
+      <guid>http://localhost:1313/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Ga4</title>
-      <link>https://shk-log.github.io/tags/ga4/</link>
+      <link>http://localhost:1313/tags/ga4/</link>
       <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
-      <guid>https://shk-log.github.io/tags/ga4/</guid>
+      <guid>http://localhost:1313/tags/ga4/</guid>
       <description></description>
     </item>
     <item>
       <title>GoogleSearchConsole</title>
-      <link>https://shk-log.github.io/tags/googlesearchconsole/</link>
+      <link>http://localhost:1313/tags/googlesearchconsole/</link>
       <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
-      <guid>https://shk-log.github.io/tags/googlesearchconsole/</guid>
+      <guid>http://localhost:1313/tags/googlesearchconsole/</guid>
       <description></description>
     </item>
     <item>
       <title>NaverSearchAdvisor</title>
-      <link>https://shk-log.github.io/tags/naversearchadvisor/</link>
+      <link>http://localhost:1313/tags/naversearchadvisor/</link>
       <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
-      <guid>https://shk-log.github.io/tags/naversearchadvisor/</guid>
+      <guid>http://localhost:1313/tags/naversearchadvisor/</guid>
       <description></description>
     </item>
   </channel>

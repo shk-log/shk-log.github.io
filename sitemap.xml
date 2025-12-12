@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shk-log.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-12T11:24:12+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/categories/devlog/</loc>
+    <loc>http://localhost:1313/categories/devlog/</loc>
     <lastmod>2025-12-12T11:24:12+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/tags/git/</loc>
+    <loc>http://localhost:1313/tags/git/</loc>
     <lastmod>2025-12-12T11:24:12+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-12T11:24:12+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-12T11:24:12+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-12T11:24:12+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/posts/is-git-add-dot-necessary/</loc>
+    <loc>http://localhost:1313/posts/is-git-add-dot-necessary/</loc>
     <lastmod>2025-12-12T11:24:12+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/tags/ga4/</loc>
+    <loc>http://localhost:1313/tags/ga4/</loc>
     <lastmod>2025-12-09T16:27:47+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/posts/git-blog-setup-ga4-search-console-naver/</loc>
+    <loc>http://localhost:1313/posts/git-blog-setup-ga4-search-console-naver/</loc>
     <lastmod>2025-12-09T16:27:47+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/tags/googlesearchconsole/</loc>
+    <loc>http://localhost:1313/tags/googlesearchconsole/</loc>
     <lastmod>2025-12-09T16:27:47+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/tags/naversearchadvisor/</loc>
+    <loc>http://localhost:1313/tags/naversearchadvisor/</loc>
     <lastmod>2025-12-09T16:27:47+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/posts/reasons-to-start-git-blog/</loc>
+    <loc>http://localhost:1313/posts/reasons-to-start-git-blog/</loc>
     <lastmod>2025-12-08T21:44:11+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/categories/%ED%9A%8C%EA%B3%A0/</loc>
+    <loc>http://localhost:1313/categories/%ED%9A%8C%EA%B3%A0/</loc>
     <lastmod>2025-12-08T21:44:11+09:00</lastmod>
   </url>
 </urlset>

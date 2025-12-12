@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>shk-log</title>
-    <link>https://shk-log.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on shk-log</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Fri, 12 Dec 2025 11:24:12 +0900</lastBuildDate>
-    <atom:link href="https://shk-log.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>매번 치는 git add . 꼭 필요한 절차인가? | Staging Area의 재발견</title>
-      <link>https://shk-log.github.io/posts/is-git-add-dot-necessary/</link>
+      <link>http://localhost:1313/posts/is-git-add-dot-necessary/</link>
       <pubDate>Fri, 12 Dec 2025 11:24:12 +0900</pubDate>
-      <guid>https://shk-log.github.io/posts/is-git-add-dot-necessary/</guid>
+      <guid>http://localhost:1313/posts/is-git-add-dot-necessary/</guid>
       <description>git add . 을 통해 만나는 Staging Area, 도대체 왜 존재할까? Git의 세 영역(Working Directory, Staging Area, Repository)을 이해하고, 4가지 상태를 이해하면서 Git이 파일을 어떻게 바라보는지 이해해 보자</description>
     </item>
     <item>
       <title>Git 블로그(Hugo) GA4 통계 및 검색 노출 설정하기 (구글 서치콘솔, 네이버)</title>
-      <link>https://shk-log.github.io/posts/git-blog-setup-ga4-search-console-naver/</link>
+      <link>http://localhost:1313/posts/git-blog-setup-ga4-search-console-naver/</link>
       <pubDate>Tue, 09 Dec 2025 16:27:47 +0900</pubDate>
-      <guid>https://shk-log.github.io/posts/git-blog-setup-ga4-search-console-naver/</guid>
+      <guid>http://localhost:1313/posts/git-blog-setup-ga4-search-console-naver/</guid>
       <description>Git 블로그의 단점인 &amp;lsquo;통계 기능 부재&amp;rsquo;를 GA4(구글 애널리틱스) 연동으로 직접 해결하고, 검색 엔진(구글 네이버) 등록을 통해 유입경로를 확보했다.</description>
     </item>
     <item>
       <title>Git 블로그를 시작하는 이유</title>
-      <link>https://shk-log.github.io/posts/reasons-to-start-git-blog/</link>
+      <link>http://localhost:1313/posts/reasons-to-start-git-blog/</link>
       <pubDate>Mon, 08 Dec 2025 21:44:11 +0900</pubDate>
-      <guid>https://shk-log.github.io/posts/reasons-to-start-git-blog/</guid>
+      <guid>http://localhost:1313/posts/reasons-to-start-git-blog/</guid>
       <description>10년차 블로거였던 내가 개발자로서 Git 블로그를 시작하는 이유이자 다짐</description>
     </item>
   </channel>

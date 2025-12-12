@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>회고 on shk-log</title>
-    <link>https://shk-log.github.io/categories/%ED%9A%8C%EA%B3%A0/</link>
+    <link>http://localhost:1313/categories/%ED%9A%8C%EA%B3%A0/</link>
     <description>Recent content in 회고 on shk-log</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Mon, 08 Dec 2025 21:44:11 +0900</lastBuildDate>
-    <atom:link href="https://shk-log.github.io/categories/%ED%9A%8C%EA%B3%A0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%ED%9A%8C%EA%B3%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git 블로그를 시작하는 이유</title>
-      <link>https://shk-log.github.io/posts/reasons-to-start-git-blog/</link>
+      <link>http://localhost:1313/posts/reasons-to-start-git-blog/</link>
       <pubDate>Mon, 08 Dec 2025 21:44:11 +0900</pubDate>
-      <guid>https://shk-log.github.io/posts/reasons-to-start-git-blog/</guid>
+      <guid>http://localhost:1313/posts/reasons-to-start-git-blog/</guid>
       <description>10년차 블로거였던 내가 개발자로서 Git 블로그를 시작하는 이유이자 다짐</description>
     </item>
   </channel>
