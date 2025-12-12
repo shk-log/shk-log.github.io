@@ -6,8 +6,15 @@
     <description>Recent content on shk-log</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 09 Dec 2025 16:27:47 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 11:24:12 +0900</lastBuildDate>
     <atom:link href="https://shk-log.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>매번 치는 git add . 꼭 필요한 절차인가? | Staging Area의 재발견</title>
+      <link>https://shk-log.github.io/posts/is-git-add-dot-necessary/</link>
+      <pubDate>Fri, 12 Dec 2025 11:24:12 +0900</pubDate>
+      <guid>https://shk-log.github.io/posts/is-git-add-dot-necessary/</guid>
+      <description>git add . 을 통해 만나는 Staging Area, 도대체 왜 존재할까? Git의 세 영역(Working Directory, Staging Area, Repository)을 이해하고, 4가지 상태를 이해하면서 Git이 파일을 어떻게 바라보는지 이해해 보자</description>
+    </item>
     <item>
       <title>Git 블로그(Hugo) GA4 통계 및 검색 노출 설정하기 (구글 서치콘솔, 네이버)</title>
       <link>https://shk-log.github.io/posts/git-blog-setup-ga4-search-console-naver/</link>
