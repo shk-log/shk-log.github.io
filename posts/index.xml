@@ -6,8 +6,15 @@
     <description>Recent content in Posts on shk-log</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 12 Dec 2025 11:24:12 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 12:22:57 +0900</lastBuildDate>
     <atom:link href="https://shk-log.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PostgreSQL 설치 및 세팅 가이드 | 맥북 M1 Homebrew에 설치</title>
+      <link>https://shk-log.github.io/posts/postgresql-install-mac-m1-homebrew/</link>
+      <pubDate>Thu, 08 Jan 2026 12:22:57 +0900</pubDate>
+      <guid>https://shk-log.github.io/posts/postgresql-install-mac-m1-homebrew/</guid>
+      <description>맥북 M1 환경에서 Homebrew를 이용해 PostgreSQL을 설치하고 초기 세팅하는 방법을 정리했다. 신입 개발자 관점에서 왜 Oracle,MongoDB 대신 PostgreSQL을 선택했는지, 그리고 설치부터 서비스 실행, 접속 확인까지의 전 과정을 단계별로 담았다.</description>
+    </item>
     <item>
       <title>매번 치는 git add . 꼭 필요한 절차인가? | Staging Area의 재발견</title>
       <link>https://shk-log.github.io/posts/is-git-add-dot-necessary/</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PostgreSQL on shk-log</title>
+    <link>https://shk-log.github.io/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on shk-log</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 08 Jan 2026 12:22:57 +0900</lastBuildDate>
+    <atom:link href="https://shk-log.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PostgreSQL 설치 및 세팅 가이드 | 맥북 M1 Homebrew에 설치</title>
+      <link>https://shk-log.github.io/posts/postgresql-install-mac-m1-homebrew/</link>
+      <pubDate>Thu, 08 Jan 2026 12:22:57 +0900</pubDate>
+      <guid>https://shk-log.github.io/posts/postgresql-install-mac-m1-homebrew/</guid>
+      <description>맥북 M1 환경에서 Homebrew를 이용해 PostgreSQL을 설치하고 초기 세팅하는 방법을 정리했다. 신입 개발자 관점에서 왜 Oracle,MongoDB 대신 PostgreSQL을 선택했는지, 그리고 설치부터 서비스 실행, 접속 확인까지의 전 과정을 단계별로 담았다.</description>
+    </item>
+  </channel>
+</rss>
