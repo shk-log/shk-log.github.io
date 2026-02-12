@@ -6,8 +6,15 @@
     <description>Recent content in Posts on shk-log</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 08 Jan 2026 12:22:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 21:28:51 +0900</lastBuildDate>
     <atom:link href="https://shk-log.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TanStack Start 무작정 따라하기 : 삽질하면서 배운 풀스택의 맛</title>
+      <link>https://shk-log.github.io/posts/tanstack-start-tutorial-errors-and-fixes/</link>
+      <pubDate>Tue, 10 Feb 2026 21:28:51 +0900</pubDate>
+      <guid>https://shk-log.github.io/posts/tanstack-start-tutorial-errors-and-fixes/</guid>
+      <description>백 번 보는 것보다 한 번 만드는 게 빠르다! TanStack Start 실전 구현기입니다. 직접 코드를 타이핑하며 찾아낸 오류 원인과 해결 방법, 그리고 이 프레임워크가 제공하는 강력한 자동 타입 추론의 매력을 공유합니다.</description>
+    </item>
     <item>
       <title>PostgreSQL 설치 및 세팅 가이드 | 맥북 M1 Homebrew에 설치</title>
       <link>https://shk-log.github.io/posts/postgresql-install-mac-m1-homebrew/</link>

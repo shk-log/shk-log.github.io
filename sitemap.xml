@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shk-log.github.io/tags/500error/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
     <loc>https://shk-log.github.io/categories/</loc>
-    <lastmod>2026-01-08T12:22:57+09:00</lastmod>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/tags/httperror/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/posts/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/tags/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/tags/tanstack/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/posts/tanstack-start-tutorial-errors-and-fixes/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/categories/tanstack-start/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
+  </url><url>
+    <loc>https://shk-log.github.io/tags/tanstack-start/</loc>
+    <lastmod>2026-02-10T21:28:51+09:00</lastmod>
   </url><url>
     <loc>https://shk-log.github.io/tags/postgresql/</loc>
     <lastmod>2026-01-08T12:22:57+09:00</lastmod>
@@ -11,16 +38,7 @@
     <loc>https://shk-log.github.io/posts/postgresql-install-mac-m1-homebrew/</loc>
     <lastmod>2026-01-08T12:22:57+09:00</lastmod>
   </url><url>
-    <loc>https://shk-log.github.io/posts/</loc>
-    <lastmod>2026-01-08T12:22:57+09:00</lastmod>
-  </url><url>
-    <loc>https://shk-log.github.io/</loc>
-    <lastmod>2026-01-08T12:22:57+09:00</lastmod>
-  </url><url>
     <loc>https://shk-log.github.io/categories/sql/</loc>
-    <lastmod>2026-01-08T12:22:57+09:00</lastmod>
-  </url><url>
-    <loc>https://shk-log.github.io/tags/</loc>
     <lastmod>2026-01-08T12:22:57+09:00</lastmod>
   </url><url>
     <loc>https://shk-log.github.io/categories/devlog/</loc>
